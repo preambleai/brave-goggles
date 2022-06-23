@@ -1,0 +1,20 @@
+! name: Responsible AI 
+! description: Upranks companies developing safe and ethical AI solutions
+! public: true
+! author: Preamble
+! homepage: https://www.preamble.com
+
+
+$boost=4,site=buildaligned.ai
+$boost=4,site=anthropic.com
+$boost=3,site=conjecture.dev
+$boost=4,site=credo.ai
+$boost=3,site=datarobot.com
+$boost=3,site=encultured.ai
+$boost=4,site=home.omnilabs.ai
+$boost=2,site=openai.com
+$boost=4,site=preamble.com
+$boost=3,site=seclea.com
+$boost=3,site=virtuousai.com
+$boost=4,site=humancompatible.ai
+$boost=4,site=realitydefender.ai
