@@ -52,16 +52,12 @@ $boost=2,site=abcnews.go.com
 $boost=2,site=calmatters.org
 $boost=2,site=calwatchdog.com
 $boost=2,site=coindesk.com
-$boost=2,site=consortiumnews.com
 $boost=2,site=corbettreport.com
 $boost=2,site=foreignaffairs.com
 $boost=2,site=foreignpolicy.com
-$boost=2,site=globalresearch.ca
-$boost=2,site=informationclearinghouse.info
 $boost=2,site=insidephilanthropy.com
 $boost=2,site=ibtimes.com
 $boost=2,site=journalistsresource.org
-$boost=2,site=thelastamericanvagabond.com
 $boost=2,site=lifehacker.com
 $boost=2,site=livescience.com
 $boost=2,site=militarytimes.com
